@@ -1,0 +1,8 @@
+name: Clase 2-Creando un tema base
+type: theme
+description:  Mi primer tema personalizado para drupal 8
+version:  1.0-beta
+core: 8.x
+
+libraries:
+  - clase2/global

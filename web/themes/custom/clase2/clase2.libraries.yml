@@ -1,0 +1,9 @@
+global:
+  version:  22sep
+  css:
+    base:
+      css/base.css: {}
+    theme:
+      css/theme.css:  {}
+  js:
+    js/clase2.js: {}
